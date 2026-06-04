@@ -17,7 +17,7 @@ from pyrogram.errors import FloodWait, SessionPasswordNeeded, PhoneCodeInvalid, 
 # ═══════════════════════════════════════
 API_ID = 30479174
 API_HASH = "f7116f16ed02b404785a4cfe8d2468d3"
-BOT_TOKEN = "8925694222:AAFF3AF44idSIvfb9LHEqucyEBr0UJOBFvE"
+BOT_TOKEN = "8894461474:AAH0fHxD_Twa836qt78T4KUL0wq82F5Cpt4"
 OWNER_USERNAME = "Mo3y_MEGATRON"
 
 # ═══════════════════════════════════════
